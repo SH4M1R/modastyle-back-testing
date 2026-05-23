@@ -1,9 +1,8 @@
 ## Backend Tienda de Ropa
 
 Este proyecto corresponde al backend del sistema **TiendaRopa**, una aplicación desarrollada en **Spring Boot** que gestiona la información de productos, clientes, pedidos y ventas de una tienda de ropa.  
-Proporciona una API REST que puede ser consumida por un frontend web o aplicación móvil.
+Proporciona una API REST que puede ser consumida por un frontend web.
 
----
 
 ## Tecnologías Utilizadas
 
@@ -99,8 +98,6 @@ backend-TiendaRopa/
    http://localhost:8500
    ```
 
----
-
 
 ##  Funcionalidades
 
@@ -117,19 +114,3 @@ backend-TiendaRopa/
 Link del video:
 
 https://youtu.be/0xc_w_y50wQ
-
-
-## Autores (INTRANET)
-
-- Abel Castillo
-- Juan Pablo Inonan
-- Jeffrey Perez
-- Elmer Calisalla
-
-## Autores (APP)
-
-- Abel Castillo
-- Juan Pablo Inonan
-- Michael Reques
-- 
--
